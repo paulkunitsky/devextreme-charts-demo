@@ -19,7 +19,7 @@
           "options": {
             "outputPath": "dist/demo",
             "index": "src/index.html",
-            "main": "src/main.ts",
+            "main": "src/app/charts-demo.component.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "aot": false,

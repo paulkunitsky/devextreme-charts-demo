@@ -19,6 +19,11 @@
     "@angular/platform-browser": "~8.2.14",
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
+    "devexpress-diagram": "^2.0.0",
+    "devexpress-gantt": "^2.0.0",
+    "devextreme": "^20.2.3",
+    "devextreme-angular": "^20.2.3",
+    "devextreme-quill": "^0.9.5",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
